@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Backend for Markets App with Upstash Redis and external services",
   "type": "module",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@upstash/redis": "^1.28.0",
     "firebase-admin": "^12.0.0",
