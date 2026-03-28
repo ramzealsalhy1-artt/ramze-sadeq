@@ -1,1 +1,184 @@
-
+{
+  "header": {
+    "title": "أسواق ريادة المستهلك",
+    "subtitle": "أفضل المتاجر والمنتجات بأفضل الأسعار",
+    "images": [
+      "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?w=1600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1555529669-e69e7aa56ba9?w=1600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1441984904996-4e9c9484f3b6?w=1600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1600&h=600&fit=crop"
+    ]
+  },
+  "ticker": [
+    "🔥 عروض حصرية تصل إلى 50% خصم",
+    "💎 أشهر الماركات العالمية",
+    "🚚 توصيل مجاني للطلبات فوق 200 ريال",
+    "🎁 هدايا مجانية مع كل طلب",
+    "💰 خصم خاص للعملاء الجدد 20%",
+    "⭐ تقييمات عملاء ممتازة"
+  ],
+  "carousel": [],
+  "design": {
+    "categoryBg": "linear-gradient(145deg, #f9eef7, #f3d9e8)",
+    "categoryText": "#9b4d96",
+    "categoryFontSize": "2rem",
+    "storeBg": "#ffffff",
+    "storeText": "#1e293b",
+    "storeFontSize": "1.3rem",
+    "productBg": "#ffffff",
+    "productText": "#1e293b",
+    "productFontSize": "0.85rem",
+    "adBg": "linear-gradient(90deg, #fbbf24, #f59e0b)",
+    "adText": "#0f172a",
+    "adFontSize": "1.1rem",
+    "generalFontSize": "1rem"
+  },
+  "categories": [
+    {
+      "id": "cat1",
+      "name": "العطور والبخور",
+      "icon": "fas fa-spray-can-sparkles",
+      "slug": "perfumes",
+      "color": "#9b4d96",
+      "featuredImage": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400&h=300&fit=crop",
+      "indexImage": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=600&h=400&fit=crop",
+      "showInIndex": true,
+      "indexOrder": 1,
+      "adText": "",
+      "adEnabled": false
+    },
+    {
+      "id": "cat2",
+      "name": "الورد والهدايا",
+      "icon": "fas fa-gift",
+      "slug": "gifts",
+      "color": "#d97706",
+      "featuredImage": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=400&h=300&fit=crop",
+      "indexImage": "https://images.unsplash.com/photo-1513201099705-a9746e1e201f?w=600&h=400&fit=crop",
+      "showInIndex": true,
+      "indexOrder": 2,
+      "adText": "",
+      "adEnabled": false
+    },
+    {
+      "id": "cat3",
+      "name": "الإكسسوارات",
+      "icon": "fas fa-ring",
+      "slug": "accessories",
+      "color": "#4f6f8f",
+      "featuredImage": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400&h=300&fit=crop",
+      "indexImage": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&h=400&fit=crop",
+      "showInIndex": true,
+      "indexOrder": 3,
+      "adText": "",
+      "adEnabled": false
+    },
+    {
+      "id": "cat4",
+      "name": "الأزياء",
+      "icon": "fas fa-tshirt",
+      "slug": "fashion",
+      "color": "#2563eb",
+      "featuredImage": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=400&h=300&fit=crop",
+      "indexImage": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&h=400&fit=crop",
+      "showInIndex": true,
+      "indexOrder": 4,
+      "adText": "",
+      "adEnabled": false
+    },
+    {
+      "id": "cat5",
+      "name": "الإلكترونيات",
+      "icon": "fas fa-laptop",
+      "slug": "electronics",
+      "color": "#0e7c7c",
+      "featuredImage": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=400&h=300&fit=crop",
+      "indexImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&h=400&fit=crop",
+      "showInIndex": true,
+      "indexOrder": 5,
+      "adText": "",
+      "adEnabled": false
+    },
+    {
+      "id": "cat6",
+      "name": "الأدوات المنزلية",
+      "icon": "fas fa-utensils",
+      "slug": "home",
+      "color": "#2b6e4f",
+      "featuredImage": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=400&h=300&fit=crop",
+      "indexImage": "https://images.unsplash.com/photo-1583847268964-b28dc8f7f92d?w=600&h=400&fit=crop",
+      "showInIndex": true,
+      "indexOrder": 6,
+      "adText": "",
+      "adEnabled": false
+    }
+  ],
+  "stores": {},
+  "products": {},
+  "testimonials": [
+    {
+      "name": "أحمد محمد",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg",
+      "rating": 5,
+      "review": "موقع رائع ومنتجات ممتازة. أنصح الجميع بالتسوق من هنا."
+    },
+    {
+      "name": "سارة علي",
+      "image": "https://randomuser.me/api/portraits/women/1.jpg",
+      "rating": 4,
+      "review": "تجربة تسوق ممتعة، التوصيل سريع والخدمة رائعة."
+    },
+    {
+      "name": "محمد عبدالله",
+      "image": "https://randomuser.me/api/portraits/men/2.jpg",
+      "rating": 5,
+      "review": "أفضل موقع للتسوق في السعودية، أسعار تنافسية وجودة عالية."
+    },
+    {
+      "name": "نورة خالد",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "rating": 4,
+      "review": "منتجات أصلية وخدمة عملاء ممتازة."
+    }
+  ],
+  "footer": {
+    "email": "support@riyada.com",
+    "phone": "+966 12 345 6789",
+    "whatsapp": "https://wa.me/966123456789",
+    "social": [
+      { "icon": "fab fa-facebook-f", "url": "https://facebook.com" },
+      { "icon": "fab fa-twitter", "url": "https://twitter.com" },
+      { "icon": "fab fa-instagram", "url": "https://instagram.com" },
+      { "icon": "fab fa-whatsapp", "url": "https://whatsapp.com" }
+    ],
+    "payments": [
+      "fab fa-cc-visa",
+      "fab fa-cc-mastercard",
+      "fab fa-cc-paypal",
+      "fab fa-cc-apple-pay",
+      "fab fa-cc-stripe"
+    ]
+  },
+  "settings": {
+    "currency": "SAR",
+    "language": "ar",
+    "showSaudiFlag": false,
+    "cartEnabled": true,
+    "enableUserProfile": true,
+    "orderMethods": {
+      "whatsapp": true,
+      "email": true,
+      "chat": true
+    },
+    "trustBadges": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1200px-Flag_of_Saudi_Arabia.svg.png",
+      "https://www.sfd.gov.sa/themes/custom/sfd/assets/images/logo.svg"
+    ],
+    "contests": [],
+    "contactEmail": "support@riyada.com",
+    "storageMode": "cloud"
+  },
+  "messages": [],
+  "indexes": {}
+}
