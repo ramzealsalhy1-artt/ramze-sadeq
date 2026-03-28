@@ -1,6 +1,9 @@
 {
   "name": "markets-app-backend",
   "version": "1.0.0",
+  "engines": {
+  "node": "24.x"
+}
   "description": "Backend for Markets App with Upstash Redis and external services",
   "type": "module",
   "engines": {
